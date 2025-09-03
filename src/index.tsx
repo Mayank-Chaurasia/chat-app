@@ -9,9 +9,9 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <>
-      <HashRouter>
-          <App />
-      </HashRouter>
+<div>
+  <h1>hey bsdk</h1>
+</div>
   </>
 );
 
